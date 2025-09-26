@@ -2,7 +2,7 @@
 /**
  * Plugin Name: Wland Chat Block iA
  * Description: Pluging que permite integrar mediante un bloque de Gutenberg para integrar el chat de IA de BravesLab en cualquier página o entrada con integración a N8N.
- * Version: 1.0.1
+ * Version: 0.1.0
  * Author: Carlos Vera (Carlos-Vera), Mikel Marqués (Ymikimonokia)
  * Text Domain: WebLan-chat
  * Plugin URI: https://github.com/Carlos-Vera/Wland-Chat-Block-iA.git
